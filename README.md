@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/c31f6d86-4f93-4215-a3f2-977e6cf292f7)
 
 <p align="center">
       Курсовая работа по дисциплине C# "Международные грузоперевозки" </br>
